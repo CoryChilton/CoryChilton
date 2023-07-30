@@ -2,9 +2,9 @@
 
 I recently graduated from UCLA summa cum laude with a B.S. in mechanical engineering and a technical breadth in computer science. I have hands-on coding experience through various personal projects and interning at The Aerospace Corporation as a Software Intern during Summer 2022. As I am a recent graduate, I am looking for a full-time software engineering position starting immediately!
 
-My Links:
-[Resume](https://github.com/CoryChilton/resume/blob/main/resume.pdf)
-[LinkedIn](https://www.linkedin.com/in/corychilton/)
+My Links:  
+[Resume](https://github.com/CoryChilton/resume/blob/main/resume.pdf)  
+[LinkedIn](https://www.linkedin.com/in/corychilton/)  
 [Email](mailto:corychilton@g.ucla.edu)
 
 <!--
