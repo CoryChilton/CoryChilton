@@ -6,7 +6,6 @@ My Links:
 [Resume](https://github.com/CoryChilton/resume/blob/main/resume.pdf)  
 [Personal Website](https://corychilton.github.io/)  
 [LinkedIn](https://www.linkedin.com/in/corychilton/)  
-[Email](mailto:corychilton@g.ucla.edu)
 
 <!--
 **CoryChilton/CoryChilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
